@@ -8,4 +8,5 @@ getting-started-with-git-and-github
 6. made modifications in the html file
 7. updated the modifications
 8. commited the changes made
-9. pushed the changes made
+9. pulled the changes
+10. pushed the changes made
